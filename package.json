@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "js-country-browser",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/js-country-browser",
+  "homepage": "https://github.com/KamilBarszczewski/js-country-browser",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /js-country-browser/"
   },
   "repository": {
     "type": "git",
